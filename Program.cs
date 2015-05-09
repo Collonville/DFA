@@ -50,7 +50,7 @@ namespace DFA
             int input = 0;　//入力
             int stateBefore = 0;　//遷移する前の状態
 
-            Console.WriteLine("Running DFA Model.Input -1 to finish");
+            Console.WriteLine("Running DFA Model.Input -1 to finish.");
 
             while(input != -1){
                 Console.Write("Input:");
